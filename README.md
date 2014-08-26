@@ -5,7 +5,7 @@ Only works if you set a custom image for them (else it's useless because it will
 (Tutorial here: http://www.howtogeek.com/179370/how-to-add-non-steam-games-to-steam-and-apply-custom-icons/) - Not my contribution
 Usage:
 
-python testgrid.py "C:\Program Files (x86)\Steam\userdata\12345678" (Replace 12345678 with your ID you can find in that folder)
+python windows_steamgrid.py "C:\Program Files (x86)\Steam\userdata\12345678" (Replace 12345678 with your ID you can find in that folder)
 
 or if you don't have Python
 
