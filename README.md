@@ -9,7 +9,7 @@ python windows_steamgrid.py "C:\Program Files (x86)\Steam\userdata\12345678" (Re
 
 or if you don't have Python
 
-dist\windows_steamgrid.exe "C:\Program Files (x86)\Steam\userdata\12345678" (Replace 12345678 with your ID you can find in that folder)
+Windows\windows_steamgrid.exe "C:\Program Files (x86)\Steam\userdata\12345678" (Replace 12345678 with your ID you can find in that folder)
 
 Thanks to Argony-OT on XDA for creating this tool: http://forum.xda-developers.com/showthread.php?t=1899865 (core of the whole script)
 And also thanks to https://github.com/scottrice for providing the parser for the steam config file.
